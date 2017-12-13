@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">IntentDemo</string>
+  <string name="hint_enter_number">Enter Number</string>
+  <string name="button_navigate_screen2">Goto Screen 2</string>
+  <string name="button_navigate_screen1">Goto Screen 1</string>
+  <string name="error_mandatory_field">Field cannot be empty</string>
+</resources>
